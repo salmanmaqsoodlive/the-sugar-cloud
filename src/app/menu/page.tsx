@@ -10,7 +10,7 @@ import Footer from '@/components/Footer'
 const categories = ['All', 'Cakes', 'Cupcakes', 'Pies', 'Seasonal']
 
 const menuItems = [
-  { name: 'Classic Vanilla Dream', cat: 'Cakes', price: '$65', serves: '8-10', img: 'https://images.unsplash.com/photo-1578985545062-9f2d92dc5e54?w=600&q=80', desc: 'Moist vanilla layers with silky buttercream frosting.' },
+  { name: 'Classic Vanilla Dream', cat: 'Cakes', price: '$65', serves: '8-10', img: 'https://images.unsplash.com/photo-1535141192574-5d4897c12636?w=600&q=80', desc: 'Moist vanilla layers with silky buttercream frosting.' },
   { name: 'Chocolate Decadence', cat: 'Cakes', price: '$70', serves: '8-10', img: 'https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=600&q=80', desc: 'Rich triple chocolate cake with ganache drip.' },
   { name: 'Lavender Honey Wedding', cat: 'Cakes', price: 'From $150', serves: '20+', img: 'https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=600&q=80', desc: 'Elegant tiered wedding cake with lavender and honey.' },
   { name: 'Lemon Cloud Cake', cat: 'Cakes', price: '$68', serves: '8-10', img: 'https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=600&q=80', desc: 'Zesty lemon sponge with dreamy cream cheese frosting.' },

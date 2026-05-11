@@ -8,7 +8,7 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 const menuItems = [
-  { name: 'Classic Vanilla Dream', cat: 'Cakes', price: '$65', img: 'https://images.unsplash.com/photo-1578985545062-9f2d92dc5e54?w=600&q=80', tags: ['Custom', 'Signature'] },
+  { name: 'Classic Vanilla Dream', cat: 'Cakes', price: '$65', img: 'https://images.unsplash.com/photo-1535141192574-5d4897c12636?w=600&q=80', tags: ['Custom', 'Signature'] },
   { name: 'Strawberry Cloud Cupcakes', cat: 'Cupcakes', price: '$28/dz', img: 'https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&q=80', tags: ['Popular'] },
   { name: 'Lavender Honey Cake', cat: 'Cakes', price: '$75', img: 'https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=600&q=80', tags: ['Seasonal'] },
   { name: 'Cherry Blossom Pie', cat: 'Pies', price: '$28', img: 'https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=600&q=80', tags: ['Fresh'] },
