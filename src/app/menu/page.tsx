@@ -19,7 +19,7 @@ const menuItems = [
   { name: 'Cherry Blossom Pie', cat: 'Pies', price: '$28', serves: '8', img: 'https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=600&q=80', desc: 'Sweet cherries in a buttery flaky crust.' },
   { name: 'Brown Sugar Peach Pie', cat: 'Pies', price: '$30', serves: '8', img: 'https://images.unsplash.com/photo-1535920527002-b35e96722eb9?w=600&q=80', desc: 'Fresh peaches with warm brown sugar spices.' },
   { name: 'Rose Cheesecake', cat: 'Seasonal', price: '$38', serves: '10-12', img: 'https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=600&q=80', desc: 'New York style cheesecake with rose and lychee.' },
-  { name: 'Pumpkin Spice Cake', cat: 'Seasonal', price: '$65', serves: '8-10', img: 'https://images.unsplash.com/photo-1574085730049-04e47c9c6040?w=600&q=80', desc: 'Autumn spiced pumpkin cake with maple cream cheese.' },
+  { name: 'Pumpkin Spice Cake', cat: 'Seasonal', price: '$65', serves: '8-10', img: 'https://images.unsplash.com/photo-FTR6E6PxGCU?w=600&q=80', desc: 'Autumn spiced pumpkin cake with maple cream cheese.' },
 ]
 
 export default function Menu() {
